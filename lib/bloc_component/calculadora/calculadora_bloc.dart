@@ -188,7 +188,7 @@ void _sineEvent(
     CalculadoraState state, SineEvent event, Emitter<CalculadoraState> emit) {
   final double result = math.sin(double.parse(state.mathResultado));
   emit(state.copyWith(
-      operacion: 'tan(' + state.mathResultado + ')',
+      operacion: 'sin(' + state.mathResultado + ')',
       mathResultado: result.toString(),
       valor1: ''));
 }
