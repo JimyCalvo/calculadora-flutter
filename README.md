@@ -1,6 +1,45 @@
 # calculadora
 
-A new Flutter project.
+Captura de pantalla de la calculadora interfaz de la calculadora desarrollado en Flutter.. 
+
+ 
+Fig.1. Interfaz de la calculadora mostrando todas las funciones disponibles.
+
+ 
+Fig.2. Interfaz de la calculadora mostrando las funciones básicas si esta opta por un cierto tamaño.
+
+
+
+
+
+Captura de pantalla de la calculadora básica realizada en Flutter. Muestra las funcionalidades de suma, resta, multiplicación y división.
+
+ 
+
+Fig.3. Prueba de funcionamiento de Operaciones básicas.
+
+ 
+
+Fig.4. Prueba de funcionamiento de Operaciones básicas.
+
+ 
+
+Fig.5. Prueba de funcionamiento de Operaciones básicas.
+
+
+Captura de pantalla de la interfaz de una calculadora en Flutter. En la imagen se observa la prueba de las funciones trigonométricas como seno, coseno y tangente
+
+ 
+
+Fig.6. Prueba de funcionamiento de Operaciones Trigonométricas.
+
+ 
+Fig.7. Prueba de funcionamiento de Operaciones Trigonométricas.
+
+ 
+
+Fig.8. Prueba de funcionamiento de Operaciones Trigonométricas.
+
 
 ## Getting Started
 
